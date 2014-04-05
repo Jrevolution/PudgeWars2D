@@ -1,3 +1,4 @@
+package com.main.pudgewars2d;
 import com.kilobolt.framework.Image;
 import com.kilobolt.framework.Sound;
 

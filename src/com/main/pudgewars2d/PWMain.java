@@ -1,3 +1,4 @@
+package com.main.pudgewars2d;
 import com.kilobolt.framework.Screen;
 import com.kilobolt.framework.implementation.AndroidGame;
 

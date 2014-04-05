@@ -1,3 +1,4 @@
+package com.main.pudgewars2d;
 import java.util.List;
 
 import com.kilobolt.framework.Game;
